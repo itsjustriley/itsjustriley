@@ -1,5 +1,4 @@
 👋 Hi, I’m Riley (they/them) <p>
-🇨🇦 I'm Canadian <p>
 🌟 I'm an Applied Computer Science student, and Developer Intern <p>
 ⚔️ I will not be quiet about Dungeons & Dragons (DM, Wizard Main)
 
