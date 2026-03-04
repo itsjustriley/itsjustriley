@@ -1,5 +1,5 @@
 👋 Hi, I’m Riley (they/them) <p>
-🌟 I'm an Applied Computer Science student, and Developer Intern <p>
+🌟 I'm an Shopify Software Engineer, and former Dev Degree Intern with a BS in Applied Computer Science
 ⚔️ I will not be quiet about Dungeons & Dragons (DM, Wizard Main)
 
 <!---
